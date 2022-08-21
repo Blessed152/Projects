@@ -1,1 +1,1 @@
-# Projects
+# University Search App
